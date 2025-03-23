@@ -16,3 +16,10 @@ This is a sample file for practicing Markdown headers.
 ## Conclusion
 This file demonstrates how to use Markdown headers effectively.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
