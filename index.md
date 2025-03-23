@@ -15,3 +15,4 @@ This is a sample file for practicing Markdown headers.
 
 ## Conclusion
 This file demonstrates how to use Markdown headers effectively.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
